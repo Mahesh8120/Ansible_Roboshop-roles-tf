@@ -1,0 +1,5 @@
+RABBITMQ_USER: roboshop
+RABBITMQ_PASS: roboshop123
+cart_host: cart.sitaram.icu
+user_host: user.sitaram.icu
+rabbitmq_host: rabbitmq.sitaram.icu

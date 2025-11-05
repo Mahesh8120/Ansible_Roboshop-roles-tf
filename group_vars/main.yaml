@@ -1,0 +1,11 @@
+mongodb_host: mongodb.sitaram.icu
+redis_host: redis.sitaram.icu
+rabbitmq_host: rabbitmq.sitaram.icu
+mysql_host: mysql.sitaram.icu
+catalogue_host: catalogue.sitaram.icu
+cart_host: cart.sitaram.icu
+user_host: user.sitaram.icu
+payment_host: payment.sitaram.icu
+shipping_host: shipping.sitaram.icu
+frontend_host: frontend.sitaram.icu
+frontend_host: sitaram.icu
