@@ -1,1 +1,1 @@
-mongodb_host: mongodb.sitaram.icu
+mongodb_host: mongodb-{{ env }}.sitaram.icu
