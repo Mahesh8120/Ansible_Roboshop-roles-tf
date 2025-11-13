@@ -7,5 +7,3 @@ cart_host: cart.backend-alb-{{ env }}.sitaram.icu
 user_host: user.backend-alb-{{ env }}.sitaram.icu
 payment_host: payment.backend-alb-{{ env }}.sitaram.icu
 shipping_host: shipping.backend-alb-{{ env }}.sitaram.icu
-frontend_host: frontend-{{ env }}.sitaram.icu
-frontend_host: sitaram.icu
