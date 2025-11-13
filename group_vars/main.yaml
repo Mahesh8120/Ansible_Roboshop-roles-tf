@@ -2,7 +2,7 @@ mongodb_host: mongodb-{{ env }}.sitaram.icu
 redis_host: redis-{{ env }}.sitaram.icu
 rabbitmq_host: rabbitmq-{{ env }}.sitaram.icu
 mysql_host: mysql-{{ env }}.sitaram.icu
-catalogue_host: catalogue.backend-alb-{{ env }}.sitaram.icu
+#catalogue_host: catalogue.backend-alb-{{ env }}.sitaram.icu
 cart_host: cart.backend-alb-{{ env }}.sitaram.icu
 user_host: user.backend-alb-{{ env }}.sitaram.icu
 payment_host: payment.backend-alb-{{ env }}.sitaram.icu
